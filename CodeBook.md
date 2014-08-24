@@ -2,8 +2,9 @@
 ====================
 ##Descrivbes the variables in the final Data Set
 
-*Subject
-*ActivityName
+*Subject - indicates the subject , ranges from 1 to 3
+*ActivityName - indicates the activity performed
+### all the measurements that are mean of measurements grouped by each activity and subject
 *TimeBodyAccelerometerMeanX
 *TimeBodyAccelerometerMeanY
 *TimeBodyAccelerometerMeanZ

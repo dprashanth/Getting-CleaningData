@@ -149,6 +149,8 @@
 
 *Add names to activities
 
+*Add names to variables
+
 *Use aggregare function to get measurements for each subject & activity
 
 *write the final dataset

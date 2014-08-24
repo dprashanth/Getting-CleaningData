@@ -1,6 +1,6 @@
 ##Code Book
 ====================
-##Descrivbes the variables in the final Data Set
+##Describes the variables in the final Data Set
 
 *Subject - indicates the subject , ranges from 1 to 3
 *ActivityName - indicates the activity performed
@@ -72,7 +72,7 @@
 *fBodyBodyGyroscopeJerkMagnitudeMean
 *fBodyBodyGyroscopeJerkMagnitudeSTD
 
-## Transformations DOne
+## Transformations Done to the data sets given
 
 *Reads all the files in Train folder, cbind files
 *Reads all the files in Test folder, cbind files
@@ -81,4 +81,4 @@
 *Add names to activities
 *Use aggregare function to get measurements for each subject & activity
 *write the final dataset
-*
+

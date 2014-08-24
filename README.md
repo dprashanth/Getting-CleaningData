@@ -10,10 +10,11 @@ run_analysis.R does the following:
 
 	Uses cbind to combine all the 3 files of Train(subject_train, y_train, X_train)
 	Uses cbind to combine all the 3 files of Test(subject_test, y_tesr, X_test)
+	Used rbind to combinall test & tarin data sets
 	
 2.Extracts only the measurements on the mean and standard deviation for each measurement. 
 	
-	Create a subset of Datafrmaes that contain mean and standard deviation measurements
+	Create a subset of Datafrmae that contain mean and standard deviation measurements
 
 3.Uses descriptive activity names to name the activities in the data set
 

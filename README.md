@@ -4,6 +4,8 @@
 
 Repo contains run_analysis.R, ReadMe file and a code book(CodeBook.md) that describes the variables, the data, and transformations that were performed to clean up the data.
 
+The folder for the course project "getdata_projectfiles_UCI HAR Dataset" must be in the working directory for the run_analysis.R to work
+
 run_analysis.R does the following:
 
 1.Merges the training and the test sets to create one data set.

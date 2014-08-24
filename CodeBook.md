@@ -75,10 +75,16 @@
 ## Transformations Done to the data sets given
 
 *Reads all the files in Train folder, cbind files
+
 *Reads all the files in Test folder, cbind files
+
 *rbind test and train files
+
 *extract all the STD & Mean measuremnents
+
 *Add names to activities
+
 *Use aggregare function to get measurements for each subject & activity
+
 *write the final dataset
 
